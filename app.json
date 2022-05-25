@@ -8,8 +8,8 @@
     "success_url": "under maintenance",
     "stack": "container",
     "env": {
-        "PINKY_SESSION": {
-            "description": " Type here yours pinky Session.",
+        "JIMBROOTAN_SESSION": {
+            "description": " Type here yours Jimbroottan Session.",
             "required": true
         },
         "SUDO": {
@@ -98,7 +98,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━╼⤏PINKY BOT⤎╾━━━•"
+            "value": "•-ＪＩＭＢＲＯＯＴＴＡＮ-•"
         },      
         "HEROKU_API_KEY": {
             "description": " Heroku API Key.",
